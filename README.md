@@ -1,28 +1,20 @@
-# 🌐 Laboratório de Redes - Cisco Packet Tracer
+# Redes de Computadores I
 
-Bem-vindo ao meu repositório de simulações de redes! Este espaço serve para documentar a minha evolução e aprendizagem em infraestruturas de rede, utilizando o software **Cisco Packet Tracer**.
+Coleção de exercícios e simulações de redes desenvolvidos no Cisco Packet Tracer.
 
-Aqui encontras diversos cenários, desde configurações básicas de LAN até topologias mais complexas com routing avançado e segurança.
+## Conteúdos
 
-## 🚀 O que encontras neste repositório?
-Este repositório está organizado por atividades e desafios, abrangendo os seguintes temas:
-* **Configuração de Dispositivos:** Configuração inicial de Routers e Switches (Hostname, Senhas, SSH/Telnet).
-* **VLANs & Trunking:** Segmentação de redes e protocolo 802.1Q.
-* **Routing:** Configuração de rotas estáticas e protocolos dinâmicos (OSPF, RIP).
-* **Serviços de Rede:** Implementação de servidores DHCP, DNS, HTTP e NAT.
-* **Segurança:** Listas de Controlo de Acesso (ACLs) e Port Security.
+- Configuração de routers e switches
+- Endereçamento IP
+- VLANs e trunking 802.1Q
+- EtherChannel
+- Encaminhamento e gateways
+- Serviços e segurança de rede
 
-## 📂 Lista de Atividades
-Abaixo estão detalhadas algumas das principais atividades incluídas:
+## Utilização
 
-### 1. [ATIVIDADE 1: Vlans,EthernetChannel,Encaminhamento,Endereçamento]
-* **Ficheiro:** `AL4_PT_1(3).pka`
-* **Descrição:** Implementação de uma topologia com X routers, focada em [ex: VLSM e conectividade total].
-* **Destaque:** [ex: Configuração de rotas estáticas,gateway padrão,ethernet channel e vlans].
+1. Instala o Cisco Packet Tracer.
+2. Clona ou descarrega este repositório.
+3. Abre os ficheiros `.pka`/`.pkt` no Packet Tracer.
 
-
----
-
-## 🛠️ Como utilizar estes ficheiros
-1. Instala o **Cisco Packet Tracer** (recomenda-se a versão mais recente).
-2. Clona este repositório.
+Este repositório documenta a aprendizagem prática da unidade curricular de Redes de Computadores I.
